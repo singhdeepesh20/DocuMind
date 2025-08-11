@@ -29,7 +29,7 @@ Frameworks: LangChain, Streamlit
 
 Vector DB: FAISS
 
-LLMs: OpenAI API, Ollama, or local models
+LLMs: GROQ API KEY, Ollama, or local models
 
 Others: PyPDF2, dotenv
 
