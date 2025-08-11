@@ -1,0 +1,14 @@
+langchain
+streamlit
+python-dotenv
+ipykernel
+langchain-community
+pypdf
+pymupdf
+langchain-text-splitters
+langchain-groq
+sentence-transformers
+langchain-huggingface
+faiss-cpu
+groq
+langchain_groq
