@@ -1,1 +1,1 @@
-# DocuMind
+# DocuMind--Talk to your documents
