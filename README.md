@@ -11,27 +11,27 @@ Simply upload your documents, and DocuMind will allow you to ask questions in na
 
 
 ✨ Features
-📄 Multi-Document Support — Upload multiple PDFs or text files.
+-> Multi-Document Support — Upload multiple PDFs or text files.
 
-🧠 LangChain + FAISS — Intelligent chunking and fast vector search.
+-> LangChain + FAISS — Intelligent chunking and fast vector search.
 
-🔍 Context-Aware Answers — Responses grounded in your document content.
+-> Context-Aware Answers — Responses grounded in your document content.
 
-⚡ Local or API LLMs — Use OpenAI, Ollama, or other supported LLMs.
+-> Local or API LLMs — Use OpenAI, Ollama, or other supported LLMs.
 
-🌐 Streamlit UI — Simple, interactive web interface.
+-> Streamlit UI — Simple, interactive web interface.
 
 
 🛠️ Tech Stack
-Language: Python 3.10+
+-> Language: Python 3.10+
 
-Frameworks: LangChain, Streamlit
+-> Frameworks: LangChain, Streamlit
 
-Vector DB: FAISS
+-> Vector DB: FAISS
 
-LLMs: GROQ API KEY, Ollama, or local models
+-> LLMs: GROQ API KEY, Ollama, or local models
 
-Others: PyPDF2, dotenv
+-> Others: PyPDF2, dotenv
 
 
 
