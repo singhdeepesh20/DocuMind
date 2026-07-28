@@ -14,11 +14,11 @@ import os
 from dotenv import load_dotenv
 import tempfile
 
-# Load environment variables
+
 import os
 HF_TOKEN = os.environ["HF_TOKEN"]
 
-# Embedding model
+
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
 # Streamlit UI
