@@ -126,4 +126,4 @@ if api_key:
             st.write("Chat History:", session_history.messages)
 
 else:
-    st.warning("Please enter the API Key.")
+    st.warning("Please enter your API Key.")
